@@ -1,7 +1,14 @@
 ## UCL Cyber Security Society 👋
 Hey there, and welcome to the official UCL Cyber Security Society GitHub page!
 
-🏗️ It's currently in development, but will be up and running soon! 
+<p align="center">
+<img src="https://i.redd.it/i-cant-be-the-only-one-who-loves-cute-duckling-photos-so-v0-xpg3bbkf7h4d1.jpg?width=3024&format=pjpg&auto=webp&s=a5852c7358645504c2fa311eb0e2465899eaf1a6" width="300"></p>
+<p align="center">
+<i>Here's a duckling to keep you company!</i> </p>
+
+As of now, this repository hosts our workshop materials, which you can find in the [uclcybersoc/2425workshops](https://github.com/uclcybersoc/2425workshops) repository.
+
+Any questions? Email us at uclcybersociety(at)gmail(dot)com!
 <!--
 
 **Here are some ideas to get you started:**
